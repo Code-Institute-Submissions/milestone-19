@@ -14,30 +14,45 @@
 
 #header {
     padding: 0;
-    height: 80px;
+    min-height: 75px;
 }
 
 /* ---------------------------------------------------------------  Navbar  --------------------------- */
 
 .navbar {
-    height: 80px;
+    min-height: 75px;
     background-color: rgba(255, 255, 255, 0.5);
 }
 
 .navbar-brand {
-    margin-left: 50px;
+    margin-left: 40px;
     font-family: "Permanent Marker", sans-serif;
     font-size: 30px;
+    color: #f65914!important;
 }
 
 .navbar-brand img {
     height: 50px;
     width: 50px;
-    margin-right: 20px;
+    margin-right: 15px;
 }
 
 .navbar-nav {
     margin-right: 50px;
+}
+
+.nav-item a {
+    color: #000!important;
+    font-family: "Overpass", sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: right;
+
+}
+
+.nav-item a:hover {
+    color: #f65914!important;
+    border-bottom: 1px solid #000;
 }
 
 /* ---------------------------------------------------------------  Footer  --------------------------- */
@@ -52,6 +67,30 @@ main {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: calc(100vh - 80px);
+    min-height: calc(100vh - 75px); /*Ensure image only shows above the fold and not under the navbar on load*/
     position: relative;
 }
+
+#banner {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-width: 300px;
+    max-width: 500px;
+    min-height: 200px;
+    position: absolute;
+    bottom: 20%;
+    padding: 50px;
+}
+
+#banner h2 {
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 30px;
+    color: #f65914;
+}
+
+#banner h4 {
+    font-family: "Overpass", sans-serif;
+    font-size: 20px;
+    color: #fafafa;
+}
+
+/* ---------------------------------------------------------------  Features  --------------------------- */
