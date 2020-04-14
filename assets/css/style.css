@@ -21,7 +21,7 @@
 
 .navbar {
     min-height: 75px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 .navbar-brand {
@@ -94,3 +94,31 @@ main {
 }
 
 /* ---------------------------------------------------------------  Features  --------------------------- */
+
+#features {
+    text-align: center;
+    padding: 0 50px;
+    margin-top: 100px;
+}
+
+#features i {
+    font-size: 65px;
+    margin-bottom: 10px;
+}
+
+#features h2 {
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 30px;
+    color: #f65914;
+    margin-bottom: 20px;
+}
+
+#features p {
+    font-family: "Overpass", sans-serif;
+    color: #000;
+}
+
+.feature-image {
+    width: 80%;
+    margin-bottom: 50px;
+}
