@@ -8,8 +8,6 @@
     border: 0;
 }
 
-
-
 /* ---------------------------------------------------------------  Header  --------------------------- */
 
 #header {
@@ -47,18 +45,12 @@
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: right;
-
 }
 
 .nav-item a:hover {
     color: #f65914!important;
     border-bottom: 1px solid #000;
 }
-
-/* ---------------------------------------------------------------  Footer  --------------------------- */
-
-
-
 
 /* ---------------------------------------------------------------  Main  --------------------------- */
 
@@ -124,6 +116,7 @@ main {
 }
 
 /* ---------------------------------------------------------------  Trainers  --------------------------- */
+
 #trainers {
     text-align: center;
 }
@@ -173,3 +166,58 @@ main {
     padding: 0 30px;
     margin-bottom: 100px;
 }
+
+/* ---------------------------------------------------------------  Trainers  --------------------------- */
+
+#email-subscribe {
+    background-image: url("../images/email-background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.email-container {
+    padding: 50px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#email-subscribe h3 {
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 30px;
+    color: #000;
+}
+
+#email-subscribe h4 {
+    font-family: "Overpass", sans-serif;
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#email {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#email-subscribe button {
+    display: block;
+    margin: 20px auto;
+}
+
+/* ---------------------------------------------------------------  Testimonials  --------------------------- */
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------  Footer  --------------------------- */
+
+
+
