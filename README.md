@@ -1,4 +1,4 @@
-#Goku Gym
+# Goku Gym
 
 This milestone project was used to build a website for a fictional local small business, specifically a gym. The website will allow the gym to draw attention to their offerings, what makes their trainers stand out amongst the crowd, all while showcasing touching testimonials from existing clients. The website will be online hub as destination for all their marketing efforts online offering the most important information that clients may be looking for inlcuding multiple contact methods. The website will also try to attain email subscriptions so the owner of the gym can continue to market to them through another channel.
 
@@ -8,7 +8,7 @@ As the small business owner did not have a lot of copyright and marketing conten
 
 The website was built with the brand colours in mind with many visual aids to help project the message. A lot of whitespace was used to ensure easy legibility and processing of the information provided. Large jumbotron was used to provide contrast and to divide up the whitespace at times.
 
-###User Stories
+### User Stories
 
 John visits the website to contact the gym to gain more information. He was able to easy navigate to the contact section and call using the phone number. If by chance, he did not want to call, he has the option to send an email using the contact form or the email address included.
 
@@ -18,6 +18,8 @@ Jane visits the website to compare the facility and trainers with another local 
 
 Please find the wireframe below:
 
+(https://drive.google.com/open?id=1Foz0Nzl9L-GulPqRgqD2F3vYAH1QX6he)
+(https://drive.google.com/open?id=10skxwV0cEIBn2f8Cb8xi3ByZ6Kn0BKQj)
 
 ## features
 
@@ -80,7 +82,7 @@ The website was tested in W3C HTML & CSS validators and no errors were realized.
 
 The website was pushed to github using gitpod. Once the final version of the website was committed and pushed, the website was hosted using gitpage. 
 
-Please find the live website here: https://umujtaba-ci.github.io/milestone-1/
+Please find the live website here: (https://umujtaba-ci.github.io/milestone-1/)
 
 Currently the live version and development versions are identical. 
 
@@ -92,11 +94,11 @@ All text content was created by myself. No content was copied from elsewhere.
 
 ### Media 
 
-The logo image was attaing from www.flaticon.com with a free license for personal use.
+The logo image was attaing from (www.flaticon.com) with a free license for personal use.
 
 The icons were inputted using Font Awesome
 
-The images throughout the website were all attained from www.pexels.com againg with a free personal license.
+The images throughout the website were all attained from (www.pexels.com) againg with a free personal license.
 
 ### Acknowledgements
 
