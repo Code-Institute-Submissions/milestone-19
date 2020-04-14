@@ -119,10 +119,11 @@ main {
 
 #trainers {
     text-align: center;
+    margin-top: 50px;
 }
 
 #trainers h2 {
-    margin-top: 50px;
+    padding-top: 80px;
     font-family: "Permanent Marker", sans-serif;
     font-size: 36px;
     color: #f65914;
@@ -210,11 +211,57 @@ main {
 
 /* ---------------------------------------------------------------  Testimonials  --------------------------- */
 
+#testimonials {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0 50px;
+}
+
+#testimonials h2 {
+    padding-top: 80px;
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 36px;
+    color: #f65914;
+    text-align: center;
+}
+
+#testimonials hr {
+    width: 25%;
+    margin: 0 auto;
+    border-bottom: 3px solid #000;
+    margin-bottom: 80px;
+}
 
 
+#testimonials h3 {
+    padding-top: 50px;
+    font-family: "Permanent Marker", sans-serif;
+    font-size: 30px;
+    color: #f65914;
+}
+
+#testimonials h4 {
+    font-family: "Overpass", sans-serif;
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#testimonials p {
+    font-family: "Overpass", sans-serif;
+    color: #000;
+    margin-bottom: 100px;
+}
+
+.testimonials-image {
+    margin-top: 50px;
+    width: 60%;
+    border-radius: 50%;
+}
 
 
-
+/* ---------------------------------------------------------------  Contact  --------------------------- */
 
 
 /* ---------------------------------------------------------------  Footer  --------------------------- */
